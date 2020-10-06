@@ -1,0 +1,22 @@
+{
+  "name": "pdf2image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilghosh7/pdf2image.git"
+  },
+  "author": "Swapnil Ghosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnilghosh7/pdf2image/issues"
+  },
+  "homepage": "https://github.com/swapnilghosh7/pdf2image#readme",
+  "dependencies": {
+    "pdf2pic": "^2.1.2"
+  }
+}
